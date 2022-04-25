@@ -4,8 +4,8 @@
 BAD example: Mage Arcane Potency talents critical strike is only adding 13% when combined with Arcane Concentration clearcasting
 GOOD example: [Mage][Talent] Arcane Potency & Arcane Concentration
 
-2. Use the correct format -
-Decription:
+2. Use the correct format -</br>
+Decription:</br>
 How it works:
 How it should work:
 Source:
