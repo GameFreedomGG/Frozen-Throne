@@ -11,7 +11,7 @@ How it works:</br>
 How it should work:</br>
 Source:</br></b>
 
-BAD example:</br> when i logged into game and tried casting a spell 4 times arcane concentration would pop and i would try to use another arcane spell but when i used it sometimes it was not 15% critical strike it looked more like 13% to me.</br>
+BAD example:</br> when i logged into game and tried casting a spell 4 times arcane concentration would pop and i would try to use another arcane spell but when i used it sometimes it was not 15% critical strike it looked more like 13% to me idk.</br>
 
 GOOD example:</br>
 Description: I used Arcane Missles until Clearcasting procced and then used Arcane Blast, but the critical strike appeared to be lower than 15%.</br>
